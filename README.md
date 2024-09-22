@@ -63,7 +63,7 @@
 ###
 
 <div align="left">
-  <a href="https://redcrewtv.de/" target="_blank">
+  <a href="https://redcrew.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
   <a href="https://discord.gg/xfNx5nUb3t" target="_blank">
