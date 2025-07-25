@@ -21,7 +21,7 @@ For the lazy: [redcrew.dev](https://redcrew.dev/)
 
 ## 📊 Statistics
 Everyone seems to have these embeds on their profile, so here's mine:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redcrewtv&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en&hide_rank=true" alt="redcrewtv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redcrewtv&show_icons=true&theme=dracula&hide_border=true&cache_seconds=0&locale=en&hide_rank=true" alt="redcrewtv" /></p>
 
 [mauritswilke.com]: https://www.mauritswilke.com
 [hex]: #FFFFFF
